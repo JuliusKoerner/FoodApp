@@ -5,6 +5,8 @@ df.pkl
 __pycache__/
 *.py[cod]
 *$py.class
+*.pth
+runs/*
 
 # C extensions
 *.so
